@@ -1,2 +1,2 @@
 ## RandomPasswordGenerator
-# IntershipTask 1.
+# InternshipTask 1.
